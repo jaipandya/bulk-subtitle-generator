@@ -1,4 +1,4 @@
-# Batch Subtitle Generator
+# Bulk Subtitle Generator
 
 🎬 Automatically generate subtitles for your video and audio files using Whisper.cpp
 
@@ -8,7 +8,7 @@ This tool automates subtitle generation for media files in any directory. It use
 
 ## ✨ Features
 
-- **Batch Processing**: Process entire directories and subdirectories at once
+- **Bulk Processing**: Process entire directories and subdirectories at once
 - **Wide Format Support**: Works with video (.mp4, .mkv, .mov, .avi, .wmv, .flv, .webm) and audio (.mp3, .wav, .flac, .aac, .ogg, .m4a) files
 - **Smart Resume**: Interrupted? Resume exactly where you left off
 - **Professional Formatting**: Automatic subtitle formatting with customizable line length and caption limits
